@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(81, 240, 187);
+}
+#imgbox{
+    background-image: url(/img1.png);
+    position: relative;
+    height: 200px;
+    width: 200px;
+    top: 4px;
+    left: 4px;
+    cursor: pointer;
+     
+}
+
+#div1, #div2, #div3, #div4{
+    display: inline-block;
+    height: 210px;
+    width: 210px;
+    margin: 10px;
+    background-color: rgb(240, 239, 239);
+    border: 5px rgb(48, 44, 44);
+    flex-wrap: nowrap;
+}
+
+/* heading css */
+@font-face {
+    font-family: 'Rocher';
+    src: url(https://assets.codepen.io/9632/RocherColorGX.woff2);
+  }
+  
+
+h1 {
+  margin: 0;
+  font-family: 'Rocher';
+  text-align: center;
+  font-size: 30px;
+  height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
