@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RemoDeveloper/Drag-Drop-image.git/static/css/main.073c9b0a.css",
+    "main.js": "/RemoDeveloper/Drag-Drop-image.git/static/js/main.49d57e66.js",
+    "static/js/787.ddc63995.chunk.js": "/RemoDeveloper/Drag-Drop-image.git/static/js/787.ddc63995.chunk.js",
+    "static/media/logo.svg": "/RemoDeveloper/Drag-Drop-image.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/RemoDeveloper/Drag-Drop-image.git/index.html",
+    "main.073c9b0a.css.map": "/RemoDeveloper/Drag-Drop-image.git/static/css/main.073c9b0a.css.map",
+    "main.49d57e66.js.map": "/RemoDeveloper/Drag-Drop-image.git/static/js/main.49d57e66.js.map",
+    "787.ddc63995.chunk.js.map": "/RemoDeveloper/Drag-Drop-image.git/static/js/787.ddc63995.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.49d57e66.js"
+  ]
+}
